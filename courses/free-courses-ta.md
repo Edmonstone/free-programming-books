@@ -17,6 +17,7 @@
 * [React](#react)
 * [Solidity](#solidity)
 * [SQL](#sql)
+* [Go](#go)
 
 
 ### Android
@@ -44,7 +45,7 @@
 
 ### <a id="dsa"></a>Data Structures and Algorithms
 
-* [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - 
+* [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) -
 CSE Tamila by Eezytutorials
 * [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 
@@ -133,3 +134,8 @@ CSE Tamila by Eezytutorials
 
 * [SQL in Tamil (தமிழில் SQL)](https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm) - Payilagam
 * [SQL in Tamil for Beginners](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUBh28ZT2i-jH7kBkTfB_W2) - Logic First Tamil
+
+### Go
+
+* [Go in Tamil](https://www.youtube.com/playlist?list=PLKftWmvZJMjZKBp2gN-7K5RYBaEo0-WdQ) - Tamil Tutorial
+* [Go Lang Tamil Tutorial](https://www.youtube.com/playlist?list=PLJ7-HiqskdZKn03J2X0y37agMrYCnhvEU) - Keep Coding
